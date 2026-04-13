@@ -26,7 +26,7 @@ Controle de status via enum
 
 ## 🖼️ Diagrama de Classes
 
-![Diagrama de Classes](./diagrama/diagrama_classes.png)
+![Diagrama de Classes](./diagrama/diagrama-classes.png)
 
  Possíveis evoluções
 Implementação em Java, C# ou Python
